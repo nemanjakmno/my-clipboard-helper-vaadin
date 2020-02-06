@@ -50,3 +50,4 @@ If you would like to run a separate test make sure you have added these paramete
 ### Branching information:
 * `master` the latest version of the starter, using the latest platform version
 # my-clipboard-helper-vaadin
+# my-clipboard-helper-vaadin
